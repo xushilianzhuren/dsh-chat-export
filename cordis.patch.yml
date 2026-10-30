@@ -1,0 +1,6 @@
+- insert:
+    - id: chat-export
+      name: 'dsh-chat-export'
+      config:
+        enabled: true
+        tool: true
